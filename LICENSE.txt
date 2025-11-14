@@ -1,0 +1,5 @@
+Copyright (c) 2025 Ammar Radwan. All rights reserved.
+
+This source code and all associated files are the exclusive property of the copyright holder.
+No permission is granted to copy, modify, distribute, or use this software in any form,
+in whole or in part, without explicit written permission.
